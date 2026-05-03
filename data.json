@@ -65,6 +65,17 @@
       "status": "pending",
       "create_time": "2026/5/3 09:01:39",
       "logs": []
+    },
+    {
+      "id": 1777770121849,
+      "order_no": "",
+      "tracking_no": "YT2586491211637",
+      "phone": "-",
+      "issue": "签收未收到",
+      "target_time": "2026-05-04T09:01",
+      "status": "pending",
+      "create_time": "2026/5/3 09:02:01",
+      "logs": []
     }
   ],
   "issueOptions": [
