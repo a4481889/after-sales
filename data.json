@@ -98,6 +98,17 @@
       "status": "pending",
       "create_time": "2026/5/6 15:51:48",
       "logs": []
+    },
+    {
+      "id": 1778115245400,
+      "order_no": "",
+      "tracking_no": "773417417198615",
+      "phone": "-",
+      "issue": "签收未收到",
+      "target_time": "2026-05-08T08:54",
+      "status": "pending",
+      "create_time": "2026/5/7 08:54:05",
+      "logs": []
     }
   ],
   "issueOptions": [
