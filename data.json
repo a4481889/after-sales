@@ -120,6 +120,17 @@
       "status": "pending",
       "create_time": "2026/5/11 09:35:55",
       "logs": []
+    },
+    {
+      "id": 1778493382395,
+      "order_no": "",
+      "tracking_no": "JT3162055021647",
+      "phone": "-",
+      "issue": "签收未收到",
+      "target_time": "2026-05-12T17:56",
+      "status": "pending",
+      "create_time": "2026/5/11 17:56:22",
+      "logs": []
     }
   ],
   "issueOptions": [
