@@ -164,6 +164,17 @@
       "status": "done",
       "create_time": "2026/5/14 11:56:10",
       "logs": []
+    },
+    {
+      "id": 1779518349192,
+      "order_no": "",
+      "tracking_no": "YT2542155747883",
+      "phone": "-",
+      "issue": "没收到牙刷",
+      "target_time": "2026-05-24T14:39",
+      "status": "pending",
+      "create_time": "2026/5/23 14:39:09",
+      "logs": []
     }
   ],
   "issueOptions": [
