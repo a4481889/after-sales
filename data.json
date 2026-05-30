@@ -186,6 +186,17 @@
       "status": "pending",
       "create_time": "2026/5/24 15:11:45",
       "logs": []
+    },
+    {
+      "id": 1780104071202,
+      "order_no": "",
+      "tracking_no": "YT7622874598874",
+      "phone": "-",
+      "issue": "签收未收到",
+      "target_time": "2026-05-31T09:21",
+      "status": "pending",
+      "create_time": "2026/5/30 09:21:11",
+      "logs": []
     }
   ],
   "issueOptions": [
